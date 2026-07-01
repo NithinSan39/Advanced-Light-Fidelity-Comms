@@ -47,6 +47,7 @@ The LM393 LDR module is active-low:
 - Light detected: output LOW
 
 Therefore, the receiver starts timing on a falling edge and stops timing on a rising edge.
+- In order to increase the range and focus of the light we can also use a laser of appropriate power and wavelength.
 
 ## Project Structure
 
