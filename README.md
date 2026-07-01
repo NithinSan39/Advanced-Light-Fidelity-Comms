@@ -1,4 +1,4 @@
-# STM32 Optical PWM Communication Link
+# STM32 Light Fidelity Communication
 
 A custom optical wireless communication system between two STM32 microcontrollers using millisecond-level PWM pulses over an LED-LDR air gap.
 
@@ -74,4 +74,4 @@ Working prototype tested with STM32CubeIDE and HAL library.
 
 ## Hardware Setup
 
-![Hardware setup](docs/images/Hardware Connections.jpg)
+![Hardware setup](docs/images/Hardware_Connections.jpg)
