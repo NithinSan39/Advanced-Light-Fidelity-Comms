@@ -74,4 +74,4 @@ Working prototype tested with STM32CubeIDE and HAL library.
 
 ## Hardware Setup
 
-![Hardware setup](docs/images/hardware_connections.jpg)
+![Hardware setup](docs/images/hardware-connections.jpg)
