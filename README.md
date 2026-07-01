@@ -70,3 +70,8 @@ Flow control: None
 ## Status
 
 Working prototype tested with STM32CubeIDE and HAL library.
+
+
+## Hardware Setup
+
+![Hardware setup](docs/images/Hardware Connections.jpg)
